@@ -6,14 +6,14 @@
 
 <h2 align="left">Descrição do projeto:</h2>
 
-<p align="left">  Uma landing page feita totalmente em css, Html e Javascript. Conceitos principais é utilização de Parallax para fazer a transição <br>
+<p align="left">  Uma landing page feita totalmente em CSS , HTML e JAVASCRIPT. Conceitos principais é utilização de Parallax para fazer a transição <br>
 
 
 
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Camisa-Dragon-Ball/blob/main/cinnamon-2022-12-11T200221-0300.gif"/>
+  <img src="https://github.com/Lucas8901/Feliz-Natal/blob/main/gif/bandicam%202022-12-13%2013-36-21-932.gif"/>
   </div>
 
 
